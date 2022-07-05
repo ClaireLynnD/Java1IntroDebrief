@@ -17,8 +17,13 @@ public class IncAndDec {
             4. Then repeat step 3 with the decrement operator
             (make sure to adjust the string output appropriately)
 
-
          */
+        int i = 10;
+        System.out.println("Initial Value: " + i);
+        i++;
+        System.out.println("Value after incrementation: " + i);
+        i--;
+        System.out.println("Value after decreasing: " + i);
 
 
 
@@ -32,6 +37,7 @@ public class IncAndDec {
             note whether the value of the variable that is returned is already incremented,
             or if the returned value is not yet incremented
          */
+
 
 
 

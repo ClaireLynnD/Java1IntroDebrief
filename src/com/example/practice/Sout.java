@@ -14,6 +14,14 @@ public class Sout {
         System.out.println("Hello, world!");
         // declare and define a variable of each of the 8 primitive data types in Java
         // (byte, short, int, long, float, double, boolean, char)
+        byte varByte = 0100;
+        short varShort = 5;
+        int varInt = 7;
+        long varLong = 34;
+        float varFloat = 1129;
+        double varDouble = 2999;
+        boolean varBoolean = true;
+        char varChar = 'a';
 
 
 
@@ -24,6 +32,14 @@ public class Sout {
 
 
         // use System.out.println() to display the values of each variable to the system
+        System.out.println(varBoolean);
+        System.out.println(varByte);
+        System.out.println(varChar);
+        System.out.println(varDouble);
+        System.out.println(varFloat);
+        System.out.println(varInt);
+        System.out.println(varLong);
+        System.out.println(varShort);
 
 
 

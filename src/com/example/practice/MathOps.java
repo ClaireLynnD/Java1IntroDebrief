@@ -14,6 +14,13 @@ public class MathOps {
             print out the values resulting from performing each of the five basic math operations on them
             (+, -, *, /, %)
          */
+        double x = 5;
+        double y = 6;
+        System.out.println(x + y);
+        System.out.println(x - y);
+        System.out.println(x * y);
+        System.out.println(x / y);
+        System.out.println(x % y);
 
 
 

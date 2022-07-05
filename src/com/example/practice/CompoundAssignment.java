@@ -18,16 +18,13 @@ public class CompoundAssignment {
 
             the final result should be a variable that holds the original value of 1
          */
-
-
-
-
-
-
-
-
-
-
+        int i = 1;
+        i += 3;
+        i *= 4;
+        i -= 8;
+        i /= 2;
+        i %= 3;
+        System.out.println(i);
 
 
     }
